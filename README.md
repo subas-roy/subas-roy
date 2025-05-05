@@ -16,7 +16,7 @@ My name is Suabs Roy. Self‑motivated web developer with 2 years of hands‑on 
 <a href="https://nodejs.org/en" title="Node.js"><img src="icons/nodejs.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcdd.png" /></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcss.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 **Learning:**
