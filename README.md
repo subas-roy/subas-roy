@@ -1,22 +1,35 @@
-<h1 align="center">Hi <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30" height="30" />, Welcome to My Github Profile</h1>
-<h3 align="center">Programmer</h3>
+# subas-roy
 
+<!-- <img src="images/me.jpg" align="right" /> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+My name is Suabs Roy. Self‑motivated web developer with 2 years of hands‑on experience building full‑stack applications using MongoDB, Express, React and Node. Strong grasp of RESTful APIs, component‑based UI design, and agile workflows. Eager to drive user‑centric solutions and collaborate in fast‑paced teams.
 
+---
 
-<!--
-**Subas-roy/Subas-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Social Media:**
 
-Here are some ideas to get you started:
+[![GitHub](icons/github.png)](https://github.com/subas-roy)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/subas-roy/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with:**
+
+<a href="http://nextjs.org/" title="Next.js"><img src="icons/nextjs.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+
+**Learning:**
+
+<a href="http://nextjs.org/" title="Next.js"><img src="icons/nextjs.png" /></a>
+
+**Previously worked with:**
+
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+
+**Currently working on:**
+
+- [nextjs-authentication](https://github.com/subas-roy/nextjs-authentication-client)
