@@ -1,6 +1,6 @@
-# subas-roy
+# Subas Roy
 
-<!-- <img src="images/me.jpg" align="right" /> -->
+<img src="images/mern-developer-banner.png" />
 
 My name is Suabs Roy. Self‑motivated web developer with 2 years of hands‑on experience building full‑stack applications using MongoDB, Express, React and Node. Strong grasp of RESTful APIs, component‑based UI design, and agile workflows. Eager to drive user‑centric solutions and collaborate in fast‑paced teams.
 
