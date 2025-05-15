@@ -35,3 +35,7 @@ My name is Suabs Roy. Self‑motivated web developer with 2 years of hands‑on 
 **Currently working on:**
 
 - [nextjs-authentication](https://github.com/subas-roy/nextjs-authentication-client)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
