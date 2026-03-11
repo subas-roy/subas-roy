@@ -1,4 +1,4 @@
-# Subas Roy
+# Welcome to my GitHub profile!
 
 **Skills**
 
@@ -12,10 +12,6 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/tailwindcss.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-
-
-**Started with**
-
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
